@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahiar10
-- 👀 I’m a 21 year old CSE pre-final year student based in Manglore, India.
+- 👀 I’m a 23 year old CSE final year student based in Manglore, India.
 - 💪🏼 My skills are programming in Python, C and C++ and also making good coffee :D
 - 🌱 I’m currently working my way through learning the basics of Ai and ML.
 - 📫 How to reach me ... https://www.linkedin.com/in/mohammad-faheem-ba7a41206/
